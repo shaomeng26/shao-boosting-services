@@ -1,0 +1,16 @@
+{
+  "name": "Shao Boosting Services",
+  "short_name": "Shao Boosting",
+  "description": "Shao Boosting Services - Facebook and social media promotion services.",
+  "start_url": "/shao-boosting-services/",
+  "scope": "/shao-boosting-services/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#ff1e2d",
+  "lang": "en",
+  "categories": [
+    "business",
+    "social"
+  ]
+}
