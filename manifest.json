@@ -1,7 +1,7 @@
 {
   "name": "Shao Boosting Services",
   "short_name": "Shao Boosting",
-  "description": "Shao Boosting Services - Facebook and social media promotion services.",
+  "description": "Shao Boosting Services provides social media promotion services including Facebook page likes, reactions, comments, and shares.",
   "start_url": "/shao-boosting-services/",
   "scope": "/shao-boosting-services/",
   "display": "standalone",
@@ -12,5 +12,19 @@
   "categories": [
     "business",
     "social"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
